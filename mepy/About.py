@@ -1,5 +1,6 @@
 from django.http import HttpResponse
 
+
 class About:
     def __init__(self):
         return
